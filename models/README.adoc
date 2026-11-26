@@ -2,28 +2,28 @@
 
 Тема Т02. Городской общественный транспорт.
 
-В данном разделе представлены модели TO-BE,
-разработанные в практической работе № 3.
+В данном разделе представлены модели TO-BE, разработанные в практической работе № 3.
 
 == BPMN TO-BE
 
 Процесс регистрации и доведения изменений движения транспорта.
 
-image::BPMN_TO_BE.svg[BPMN TO-BE]
+image::https://raw.githubusercontent.com/NikolayKozhanov/T02-Urban-Public-Transport/main/models/BPMN_TO_BE.svg[BPMN TO-BE]
 
 == UML TO-BE
 
 Целевой контур информирования пассажиров.
 
-image::UML_TO_BE.svg[UML TO-BE]
+image::https://raw.githubusercontent.com/NikolayKozhanov/T02-Urban-Public-Transport/main/models/UML_TO_BE.svg[UML TO-BE]
 
 == ER TO-BE
 
-Модель данных.
+Целевая модель данных.
 
-image::ER_TO_BE.svg[ER TO-BE]
+image::https://raw.githubusercontent.com/NikolayKozhanov/T02-Urban-Public-Transport/main/models/ER_TO_BE.svg[ER TO-BE]
 
 == Связь с документацией
 
 * link:../docs/requirements.adoc[Спецификация требований]
 * link:../docs/interface.adoc[Интеграции и интерфейсы]
+* link:../README.adoc[Главная страница]
